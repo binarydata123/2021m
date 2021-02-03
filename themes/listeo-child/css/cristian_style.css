@@ -535,3 +535,32 @@ span.close_modal_info_tag:after {
   display: -webkit-box;
 }
 /*---------------------------------*/
+/* 02/02/21 */
+.listing-item img { 
+    height: 265px; 
+}
+
+.messages-headline {
+	background-color: #30DA22;}
+.message-action {
+	color: #000;}
+.message-action {
+	color: #000;}
+.messages-headline h4 {
+	color: #000;}
+.choose-file-wrapper .choose-file {
+    background-color: #555555;
+    color: #fff;
+    font-family: "Raleway","HelveticaNeue","Helvetica Neue",Helvetica,Arial,sans-serif;
+    padding: 3px 15px;
+}
+button.button.listeo_send_msg_btn {
+    background: #555555;
+    padding: 4px 10px;
+}
+a.button.listeo_create_offer_btn.popup-with-zoom-anim {
+    padding: 4px 10px;
+    
+}
+
+/* end */
