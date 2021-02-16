@@ -912,7 +912,7 @@ class Listeo_Core_Booking_Widget extends Listeo_Core_Widget {
 						<!-- Panel Dropdown -->
 						<div class="col-lg-12">
 							<div class="panel-dropdown booking-services">
-								<a href="#"><?php esc_html_e('Select Option','listeo_core'); ?> <span class="services-counter">0</span></a>
+								<a href="#"><?php esc_html_e('Select Extra Service','listeo_core'); ?> <span class="services-counter">0</span></a>
 								<div class="panel-dropdown-content padding-reset">
 									<div class="panel-dropdown-scrollable">
 									
@@ -1023,8 +1023,7 @@ class Listeo_Core_Booking_Widget extends Listeo_Core_Widget {
 						<!-- Panel Dropdown -->
 						<div class="col-lg-12">
 							<div class="panel-dropdown booking-services">
-								<a href="#"><?php esc_html_e('Select Option
-								','listeo_core'); ?> <span class="services-counter">0</span></a>
+								<a href="#"><?php esc_html_e('Select Extra Service','listeo_core'); ?> <span class="services-counter">0</span></a>
 								<div class="panel-dropdown-content padding-reset">
 									<div class="panel-dropdown-scrollable">
 									
